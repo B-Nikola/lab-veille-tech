@@ -1,0 +1,4 @@
+baseURL = 'https://labVeilTech.org/'
+languageCode = 'en-us'
+title = 'Lab Veil tech'
+theme = "hugo-book"

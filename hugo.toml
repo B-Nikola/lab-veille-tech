@@ -1,4 +1,4 @@
-baseURL = 'https://labVeilTech.org/'
+baseURL = 'https://b-nikola.github.io/lab-veille-tech/'
 languageCode = 'en-us'
 title = 'Lab Veil tech'
 theme = "hugo-book"
